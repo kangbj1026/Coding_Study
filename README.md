@@ -10,6 +10,7 @@
 - **Day 4 : 자바 실행 환경** (Java Runtime and JVM) ✅
 - **Day 5 : 제네릭과 타입 안전성** (Generics & Type Safety) ✅
 - **Day 6 : 컬렉션 프레임워크** (Collections Framework) ✅
-- **Day 7 : 예외 처리와 안정성** (Exception Handling) 🏃 *Now Studying*
+- **Day 7 : 예외 처리와 안정성** (Exception Handling) ✅
+- **Day 8 : 멀티스레딩 기초** (Multithreading Concepts) 🏃 *Now Studying*
 
 ---
