@@ -13,6 +13,7 @@
 - **Day 7 : 예외 처리와 안정성** (Exception Handling) ✅
 - **Day 8 : 멀티스레딩 기초** (Multithreading Concepts) ✅
 - **Day 9 : 람다와 스트림** (Lambda & Stream) ✅
-- **Day 10 : 입출력과 직렬화** (I/O & Serialization) 🚀 *Now Studying*
+- **Day 10 : 입출력과 직렬화** (I/O & Serialization) ✅
+- **Day 11 : 네트워크 프로그래밍** (Network Programming) 🚀 *Now Studying*
 
 ---
