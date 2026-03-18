@@ -14,6 +14,7 @@
 - **Day 8 : 멀티스레딩 기초** (Multithreading Concepts) ✅
 - **Day 9 : 람다와 스트림** (Lambda & Stream) ✅
 - **Day 10 : 입출력과 직렬화** (I/O & Serialization) ✅
-- **Day 11 : 네트워크 프로그래밍** (Network Programming) 🚀 *Now Studying*
+- **Day 11 : 네트워크 프로그래밍** (Network Programming) ✅
+- **Day 12 : 어노테이션과 리플렉션** (Annotation & Reflection) 🚀 *Now Studying*
 
 ---
