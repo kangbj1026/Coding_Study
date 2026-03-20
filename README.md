@@ -15,6 +15,7 @@
 - **Day 9 : 람다와 스트림** (Lambda & Stream) ✅
 - **Day 10 : 입출력과 직렬화** (I/O & Serialization) ✅
 - **Day 11 : 네트워크 프로그래밍** (Network Programming) ✅
-- **Day 12 : 어노테이션과 리플렉션** (Annotation & Reflection) 🚀 *Now Studying*
+- **Day 12 : 어노테이션과 리플렉션** (Annotation & Reflection) ✅
+- **Day 13 : JUnit과 단위 테스트** (JUnit & Unit Testing) 🚀 *Now Studying*
 
 ---
